@@ -1,0 +1,13 @@
+.Display {
+    padding: 1em;
+    background: white;
+    text-align: right;
+
+}
+
+.Display h3,
+.Display h2 {
+    margin: 0;
+    font-size: 1.5em;
+    min-height: 1.3em;
+}
